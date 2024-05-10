@@ -1,0 +1,4 @@
+#folder that will not be sent to github. the requirement text file and others can be sent
+.venv
+.env
+__pycache__
